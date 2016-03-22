@@ -9,6 +9,7 @@ Depois de algumas pesquisas relacionadas a experiência do usuário, fiz um apan
 * Construir protótipos testáveis (Entregar)
 * Avaliar com usuários (Descobrir)
 
+![img](http://www.leefranca.com.br/leefranca/arquivos/processo.png)
 
 ## Referências:
 * [Blog de AI](http://arquiteturadeinformacao.com/)
