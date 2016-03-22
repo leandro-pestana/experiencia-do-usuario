@@ -21,3 +21,4 @@ Depois de algumas pesquisas relacionadas a experiência do usuário, fiz um apan
 * [Blog de AI](http://arquiteturadeinformacao.com/)
 * [UX.Blog](http://www.uxdesign.blog.br/)
 * [A Project Guide to UX Design](http://projectuxd.com/)
+* [Curso UX Weekend - Mergo_ux](http://pt.slideshare.net/mergo_ux/curso-ux-weekend-50637448)
