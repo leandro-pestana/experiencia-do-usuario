@@ -9,12 +9,13 @@ Depois de algumas pesquisas relacionadas a experiência do usuário, fiz um apan
 * Construir protótipos testáveis (Entregar)
 * Avaliar com usuários (Descobrir)
 
-![img](http://www.leefranca.com.br/leefranca/arquivos/processo.png)
 
 ## Os Elementos da Experiência do Usuário
-![img](http://www.leefranca.com.br/leefranca/arquivos/elementos-UX.jpg)
-
-
+* Estratégia
+* Escopo
+* Estrutura
+* Esqueleto
+* Superfície
 
 ## Referências:
 * [Blog de AI](http://arquiteturadeinformacao.com/)
