@@ -2,6 +2,10 @@
 
 Depois de algumas pesquisas relacionadas a experiência do usuário, fiz um apanhado e criei uma lista de entregáveis e processo de UX, o material não é definitivo e foi adaptado para o meu dia-dia. O objetivo principal é juntar esse material em um lugar onde eu possa fazer minhas consultas sempre que necessário.
 
+- [Entregáveis](experiencia-do-usuario/entregaveis.md): Checklist para ver qual o melhor tipo de entregável para cada etapa do projeto.
+- [Processos](experiencia-do-usuario/processos.md):Principais etapas a serem cumpridas.
+- [10 verdades sobre UX](experiencia-do-usuario/10-verdades-sobre-UX.md)
+
 ## Etapas do Design Centrado no Usuário
 * Jornada do usuário (Descobrir)
 * Identificar requisitos (Definir)
@@ -9,17 +13,12 @@ Depois de algumas pesquisas relacionadas a experiência do usuário, fiz um apan
 * Construir protótipos testáveis (Entregar)
 * Avaliar com usuários (Descobrir)
 
-
 ## Os Elementos da Experiência do Usuário
 * Estratégia
 * Escopo
 * Estrutura
 * Esqueleto
 * Superfície
-
-- [Entregáveis](experiencia-do-usuario/entregaveis.md): Checklist para ver qual o melhor tipo de entregável para cada etapa do projeto.
-- [Processos](experiencia-do-usuario/processos.md):Principais etapas a serem cumpridas.
-- [10 verdades sobre UX](experiencia-do-usuario/10-verdades-sobre-UX.md)
 
 ## Referências:
 * [Blog de AI](http://arquiteturadeinformacao.com/)
