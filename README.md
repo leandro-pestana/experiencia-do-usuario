@@ -17,6 +17,10 @@ Depois de algumas pesquisas relacionadas a experiência do usuário, fiz um apan
 * Esqueleto
 * Superfície
 
+- [Entregáveis](experiencia-do-usuario/entregaveis.md): Checklist para ver qual o melhor tipo de entregável para cada etapa do projeto.
+- [Processos](experiencia-do-usuario/processos.md):Principais etapas a serem cumpridas.
+- [10 verdades sobre UX](experiencia-do-usuario/10-verdades-sobre-UX.md)
+
 ## Referências:
 * [Blog de AI](http://arquiteturadeinformacao.com/)
 * [UX.Blog](http://www.uxdesign.blog.br/)
