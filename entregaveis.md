@@ -6,6 +6,8 @@
 * Mapa da Jornada do Usuário
 * Personas (ajuda no alinhamento das expectativas sobre recursos e funcionalidades) 
 * Benchmark (observação e estudo de produtos que tenham semelhança)
+* Value Proposition Canvas
+* Business Model Canvas
 
 ## Identificar requisitos (Definir)
 * Modelo Conceitual (Visão macro de como um produto funciona sem muitos detalhes)
@@ -15,6 +17,8 @@
 * Inventário de Conteúdo (para projetos com grande volume de texto) 
 * Card Sorting (usado para decidir qual a forma mais democrática de se agrupar conteúdos e funcionalidades)
 * User  Stories (Um detalhamento de cada tarefa que o usuário deseja cumprir)
+* Mindmap
+
 
 ## Geração de Ideias
 * Brainstorming
