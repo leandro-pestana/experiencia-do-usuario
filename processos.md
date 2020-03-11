@@ -17,7 +17,7 @@
 * [ ENTREGÁVEIS ] - Fluxograma - Wireframe - Protótipo
 
 ## Validação / Teste de Usabilidade
-* Técnica da Arquitetura de Informação para compreender o modelo mental dos usuários na organização, fluxo de tarefas e classificação de conteúdos.
+* Técnicas para compreender o modelo mental dos usuários na organização, fluxo de tarefas e classificação de conteúdos.
 * Facilidades de uso
 * Facilidade de aprendizado
 * Facilidade de memorização de tarefas
