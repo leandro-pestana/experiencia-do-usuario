@@ -2,7 +2,23 @@
 ## Jornada do usuário (Descobrir)
 * Definição das Métricas  (Objetivos do cliente) 
 * Road Map  (Plano de ação, Roteiro, passo-a-passo)
-* Pesquisa Quantitativa (perguntas e respostas)
+* Pesquisas -  Quantitativa, Qualitativas, Atitudinal e Comportamental
+  - Questionários online
+  - Testes A/B
+  - Mapas de calor (heatmap)
+  - Testes de usabilidade
+  - Focus groups
+  - Estudos de campo / estudo etnográfico
+  - Interceptação
+  - Monitoramento de clicks e funil
+  - Design participativo / co-criação com usuários
+  - Entrevista em profundidade
+  - Eyetracking
+  - Teste de conceito
+  - Diário de uso continuado
+  - Teste de desejabilidade
+  - Card sorting
+  - Pesquisa de satisfação pós-compra
 * Mapa da Jornada do Usuário
 * Personas (ajuda no alinhamento das expectativas sobre recursos e funcionalidades) 
 * Benchmark (observação e estudo de produtos que tenham semelhança)
