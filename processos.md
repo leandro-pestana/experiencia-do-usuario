@@ -2,7 +2,7 @@
 
 ## Estratégia
 * Objetivos de Negócio
-* Necessidades do usuário (Identificados por meio de pesquisas).
+* Necessidades do usuário com pesquisas = qualitativa - pesquisa quantitativa / atitudinal - pesquisa comportamental.
 * [ ENTREGÁVEIS ] - Personas - Business Model Canvas - Value Proposition Canvas - Pesquisas - Jornada do usuário
 
 ## Escopo
